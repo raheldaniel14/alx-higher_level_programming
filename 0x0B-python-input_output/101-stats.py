@@ -20,7 +20,6 @@ status_codes = {
     '405': 0,
     '500': 0
 }
-
 lc = 0
 file_size = 0
 
